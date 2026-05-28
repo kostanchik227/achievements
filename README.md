@@ -2,11 +2,6 @@
 
 ## Competitive Programming
 
-### ICPC Belarus Regional Contest 2024–2025
-
-* Second Degree Diploma
-* Team Competition
-
 ### Belarusian National Informatics Olympiad 2024
 
 * Third Degree Diploma
@@ -21,5 +16,4 @@
 
 ## Other Activities
 
-* Jury member of Minsk Regional Informatics Olympiad (2025, 2026)
-* Coach for Minsk Region training camp (2025)
+* Jury member of Minsk Regional Informatics Olympiad (2022, 2023, 2024)
